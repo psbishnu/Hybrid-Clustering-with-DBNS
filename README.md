@@ -19,7 +19,7 @@ The framework integrates:
 When executed, the pipeline creates a dataset-specific folder inside the main results directory:
 
 ```
-Hybrid Clustering with DBNS_24_08_2025/
+Hybrid Clustering with DBNS/
 │
 ├── anemia/                         # Dataset-specific results
 │   ├── learning_curves/            # Autoencoder training loss plots
