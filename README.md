@@ -35,7 +35,7 @@ Hybrid Clustering with DBNS/
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python 3.8+
 - [TensorFlow 2.x / Keras](https://www.tensorflow.org/)
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Place your dataset CSV files in the working directory.  
    - The **last column** must be the ground-truth labels.  
@@ -74,7 +74,7 @@ python main.py
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 At the end of execution, results will include:
 
@@ -101,7 +101,7 @@ Results are stored as CSV and bar plots for visual comparison.
 
 ---
 
-## 📈 Reported Metrics
+## Reported Metrics
 
 - **Silhouette Score (SS)**
 - **Davies–Bouldin Index (DBI)**
@@ -113,7 +113,7 @@ Results are stored as CSV and bar plots for visual comparison.
 
 ---
 
-## 🔬 Example Console Output
+## Example Console Output
 
 ```
 Dataset: anemia.csv
@@ -129,21 +129,22 @@ AUC (Outlier): 0.622
 
 ---
 
-## 📜 Citation
+## Citation
 
 If you use this framework in your research, please cite:
 
 ```
-@article{YourCitation2025,
-  title   = {Hybrid Clustering with DBNS Optimization},
-  author  = {Your Name},
-  journal = {IEEE Access / Elsewhere},
+@article{DBNS2025,
+  title   = {An Adaptive Hybrid Clustering Framework with Iterative Noise Filtering and a Novel DBNS Ratio Validity Measure for Outlier-
+Resilient High-Dimensional Data},
+  author  = {ABHISHEK, PARTHA SARATHI BISHNU, and VANDANA BHATTACHARJEE1},
+  journal = {????},
   year    = {2025}
 }
 ```
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
-This project is part of ongoing research on **robust clustering with deep representation learning**. Special thanks to the contributors and the research team for feedback.
+
